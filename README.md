@@ -20,6 +20,6 @@ public class Ses2Assignment2 {
 	}
 	public static void main(String[] args) {
 
-		Ses2Assignment2.primeNumber(20);
+		Ses2Assignment2.primeNumber(100);
 }
 }
